@@ -1,0 +1,16 @@
+{
+  "name": "parse_curl",
+  "description": "parses curl commands",
+  "version": "0.2.6",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drylikov/parse_curl.js.git"
+  },
+  "keywords": [
+    "curl",
+    "parse"
+  ],
+  "dependencies": {
+    "shellwords": "^0.1.0"
+  }
+}
